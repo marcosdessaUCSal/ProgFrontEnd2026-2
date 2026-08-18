@@ -262,7 +262,7 @@ async function iniciar() {
 
 function meuCodigo() {
 
-    iniciaTemporizador(120, true);
+    iniciaTemporizador(30, true);
 
 
 }
